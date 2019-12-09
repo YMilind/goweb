@@ -1,5 +1,7 @@
 <<<<<<< HEAD
-Learning simple steps224325
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/master
 =======
 Learning simple steps 1
->>>>>>> refs/remotes/origin/master
+>>>>>>> b991cf9b16ab16fba856467ef37d5a4d6754e035
